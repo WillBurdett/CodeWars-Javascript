@@ -13,4 +13,6 @@ function alphabetPosition(text) {
     return result
   }
 
-  console.log(alphabetPosition("abcde"))
+  let test = "Hello World"
+  console.log(alphabetPosition(test))
+
