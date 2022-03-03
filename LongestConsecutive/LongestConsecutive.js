@@ -21,5 +21,3 @@ function longestConsec(strarr, k) {
     console.log(longest)
     return longest;
 }
-
-longestConsec(["zone", "abigail", "theta", "form", "libe", "zas"], 2)
